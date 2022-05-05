@@ -9,3 +9,7 @@ Tradução para o Mod <a href="https://ul.subquake.com/" tittle="Undead Legacy" 
 - ✔️ ulmBlockWaterpumpDesc,"Reabastece lentamente com água turva (1 unidade a cada minuto) das profundezas do solo, menos contaminada pela radiação."
 - :x: ulmCollectorWellWoodDesc,"Reabastece lentamente com água turva (1 unidade a cada 2 horas de jogo) das profundezas do solo, menos contaminada pela radiação."
 - ✔️ ulmCollectorWellWoodDesc,"Reabastece lentamente com água turva (1 unidade a cada 2 minutos) das profundezas do solo, menos contaminada pela radiação."
+
+# Credits
+
+<a href="https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian" tittle="" rel="nofollow">Welker Vinícius</a>
