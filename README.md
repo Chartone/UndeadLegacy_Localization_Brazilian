@@ -7,7 +7,7 @@ Tradução para o Mod <a href="https://ul.subquake.com/" tittle="Undead Legacy" 
 # Last changes
 - ⚠️ _Changed "AP" to "Perfurante"_
 - ⚠️ _Changed "alto desempenho" to "Ponta Oca"_
-- ⚠️ _Changed some lines with the word "inscritível" to "com Placa"_
+- ⚠️ _Changed "inscritível" to "com Placa"_
 - ❌ _ulmBlockWaterpumpDesc,"Reabastece lentamente com água turva (1 unidade a cada 1 hora de jogo) das profundezas do solo, menos contaminada pela radiação."_
 - ✔️ _ulmBlockWaterpumpDesc,"Reabastece lentamente com água turva (1 unidade a cada minuto) das profundezas do solo, menos contaminada pela radiação."_
 - ❌ _ulmCollectorWellWoodDesc,"Reabastece lentamente com água turva (1 unidade a cada 2 horas de jogo) das profundezas do solo, menos contaminada pela radiação."_
