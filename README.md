@@ -12,6 +12,6 @@ Tradução para o Mod <a href="https://ul.subquake.com/" tittle="Undead Legacy" 
 - ✔️ _ulmCollectorWellWoodDesc,"Reabastece lentamente com água turva (1 unidade a cada 2 minutos) das profundezas do solo, menos contaminada pela radiação."_
 
 
-# Credits
+# Super Credits
 
 <a href="https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian" tittle="" rel="nofollow">Welker Vinícius</a>
