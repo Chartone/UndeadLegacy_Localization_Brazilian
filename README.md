@@ -10,5 +10,4 @@ Translation <a href="https://ul.subquake.com/" tittle="Undead Legacy" rel="nofol
 - ⚠️ _Multi-line case sensitive modification_
 
 # Credits
-
 <a href="https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian" tittle="" rel="nofollow">Welker Vinícius</a>
