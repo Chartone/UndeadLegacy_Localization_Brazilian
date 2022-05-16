@@ -2985,7 +2985,7 @@ uiMissingTool,"Missing tool"
 uiMods,"Mods"
 uiMovementSpeed,"Velocidade de movimento"
 uiMovementState,"Status de movimento"
-uiNearbyStorage,"Armazenamento Perto" /* .80 */
+uiNearbyStorage,"Caixa por Perto"
 uiNoPower,"Sem energia"
 uiNoSellPrice,"Sem preço de venda"
 uiNoUpgradesForBlock,"Bloco não pode ser atualizado"
