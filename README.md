@@ -10,4 +10,4 @@ Translation <a href="https://ul.subquake.com/" tittle="Undead Legacy" rel="nofol
 - ⚠️ _Changing some colors!_
 
 # Credits
-<a href="https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian" tittle="" rel="nofollow">Welker Vinícius</a>
+<a href="https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian" tittle=" " rel="nofollow">Welker Vinícius</a>
