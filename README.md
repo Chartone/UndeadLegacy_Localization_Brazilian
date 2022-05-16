@@ -5,7 +5,7 @@ Translation <a href="https://ul.subquake.com/" tittle="Undead Legacy" rel="nofol
 7 Days To Die UndeadLegacy 2.5.82 Updated <br>
 
 # Last changes ⚠️❌✔️➕
-- ✔️ _uiBroadcastStorage,"Armazenamento de transmissão para criação"_
+- ✔️ _uiBroadcastStorage,"Caixa de Fabricação"_
 - ✔️ _uiNearbyStorage,"Armazenamento Próximo"_
 
 # Credits
