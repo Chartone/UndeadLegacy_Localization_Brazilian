@@ -6,7 +6,7 @@ Translation <a href="https://ul.subquake.com/" tittle="Undead Legacy" rel="nofol
 
 # Last changes ⚠️❌✔️➕
 - ✔️ _uiBroadcastStorage,"Caixa de Fabricação"_
-- ✔️ _uiNearbyStorage,"Armazenamento Próximo"_
+- ✔️ _uiNearbyStorage,"Caixa por Perto"_
 
 # Credits
 <a href="https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian" tittle="" rel="nofollow">Welker Vinícius</a>
