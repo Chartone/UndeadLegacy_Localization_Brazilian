@@ -7,7 +7,6 @@ Translation <a href="https://ul.subquake.com/" tittle="Undead Legacy" rel="nofol
 # Last changes ⚠️❌✔️➕
 - ✔️ _uiBroadcastStorage,"Armazenamento de transmissão para criação"_
 - ✔️ _uiNearbyStorage,"Armazenamento Próximo"_
-- ⚠️ _Changing some colors!_
 
 # Credits
 <a href="https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian" tittle="" rel="nofollow">Welker Vinícius</a>
