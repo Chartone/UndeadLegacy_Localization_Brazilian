@@ -1386,7 +1386,7 @@ lootHelperDesc,"Gerará aleatoriamente um contêiner [decea3]vazio/aberto[-] ou 
 lootItem,"[2986CC][{0}][-] Pegar {1}"
 lootTooltipEmpty,"Use [2986CC][{0}][-] para interagir com: \n{1}\n[F44336](vazio)[-]"
 lootTooltipNew,"Use [2986CC][{0}][-] para vasculhar: \n{1}\n[8FCE00](intocado)[-]"
-lootTooltipTouched,"use [2986CC][{0}][-] para interagir com: \n{1}[-]"
+lootTooltipTouched,"Use [2986CC][{0}][-] para interagir com: \n{1}[-]"
 lootVehicleEmpty,"Use [2986CC][{0}][-] para interagir com: \n{1}{2}\n[F44336](vazio)[-]"
 lootVehicleNew,"Use [2986CC][{0}][-] para vasculhar: \n{1}{2}\n[8FCE00](intocado)[-]"
 lootVehicleSecureJammed,"Segure [2986CC][{0}][-] para interagir com: \n{1}{2}\n[F44336](emperrado)[-]"
